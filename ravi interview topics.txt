@@ -1,0 +1,55 @@
+
+
+My name is Ravi, I was born and raised in Vishakapatnam which is known as
+City of Destiny . I am a B.TECH Graduate in Electrical and Electronics engineering, 
+from Raghu Engineering College ,Vishakapatnam with a CGPA of  7.3 in 2020
+
+I have done my Intermediate from Government Polytechnic, Chipurupalli  with 75% marks.
+
+Talking about my family, my family consists of four members including me 
+and my elder sister. My father is a farmer and my mother is a housewife.
+
+My hobbies include photography and playing cricket and farming with my father. 
+I played at cluster level at school and university level at college.
+
+Coming to my strengths and weaknesses, my strengths are. I am a good learner, 
+I have a positive attitude, and committed to my work. 
+
+My weakness is procrastination but i am trying to over come it 
+by following a timetable.
+
+My Short term goal is to get a job in a reputed company like yours where 
+I can grow both profesionally and personally.
+
+My Long term goal is to become a more responsible and knowledgeable personality 
+and obtain a higher position in my company.
+ 
+My philosophy about life is that "Life is all about grabbing the opportunity". 
+
+That's all about myself, Thank you so much for giving me the opportunity to
+ introduce myself.
+
+
+
+
+During the covid lockdown as a family who are dependent on the agricluture we sufferred a bit to meet the ends for few months as we could not go to fields or
+harvest the crops which we grewed. 
+
+
+
+My Project deals with digital speed control of BLDC motor drives which is cost effective and easy to implement.
+
+We used sliding mode control method to controll the speed of the motor we implemented this in a closed loop speed control instead of
+open loop to attain constant speed which can not be attained using open loop
+
+This method can be implemented in commercial equipments like heavy duty refrigirators,air conditioners and electric motor vehicles which cost efficiency
+in both building phase compared to Brushed DC motors and implementation phase through energy savings
+
+
+
+During the testing phase we tried to implement the motor drive in open loop and this caused the motor to run at uneven speeds 
+instead of constant speed whcih we expected. This over speed caused an unbearable load on motor which resulted in short circuit.
+Due to this we had to build back the entire module from the scracth and make it working with in a week
+   
+
+  
